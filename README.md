@@ -25,7 +25,6 @@ This repository contains SQL queries for analyzing Netflix content data. The que
 
 ## Schema Definition
 ```sql
-DROP TABLE IF EXISTS netflix;
 
 CREATE TABLE netflix (
     show_id      VARCHAR(5),
